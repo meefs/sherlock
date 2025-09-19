@@ -1,12 +1,11 @@
 APClips
-Coders Rank
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -15,6 +14,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
@@ -24,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
