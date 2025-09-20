@@ -6,6 +6,7 @@ Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -14,12 +15,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SpeakerDeck
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
 opennet
 svidbook
