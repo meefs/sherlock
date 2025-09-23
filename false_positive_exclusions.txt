@@ -12,7 +12,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
@@ -22,3 +21,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
