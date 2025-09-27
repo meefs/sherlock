@@ -5,6 +5,7 @@ Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -21,4 +22,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
