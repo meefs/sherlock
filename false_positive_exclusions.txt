@@ -1,10 +1,10 @@
 APClips
-Coders Rank
+BoardGameGeek
+CGTrader
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,6 +12,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 SlideShare
 Splice
 Spotify
@@ -19,6 +20,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
