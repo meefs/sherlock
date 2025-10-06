@@ -1,7 +1,6 @@
 APClips
-BoardGameGeek
+Coders Rank
 DeviantArt
-Dribbble
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,9 +12,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
