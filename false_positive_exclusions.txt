@@ -1,9 +1,9 @@
 APClips
-DeviantArt
-GNOME VCS
+Coders Rank
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -14,5 +14,5 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-nnRU
+opennet
 svidbook
