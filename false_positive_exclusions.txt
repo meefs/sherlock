@@ -1,5 +1,4 @@
 APClips
-Cults3D
 DeviantArt
 GNOME VCS
 Giphy
@@ -10,7 +9,6 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-SmugMug
 Splice
 Spotify
 Topcoder
@@ -19,4 +17,3 @@ YandexMusic
 kaskus
 opennet
 svidbook
-xHamster
