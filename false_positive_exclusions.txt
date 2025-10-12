@@ -1,9 +1,9 @@
 APClips
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
 LushStories
 PepperIT
@@ -12,8 +12,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Telegram
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
