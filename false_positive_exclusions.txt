@@ -1,16 +1,20 @@
 APClips
-DeviantArt
+Audiojungle
+Blogger
+Coders Rank
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
+programming.dev
 svidbook
