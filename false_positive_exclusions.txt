@@ -1,13 +1,15 @@
 APClips
-DeviantArt
-GNOME VCS
+Coders Rank
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 opennet
