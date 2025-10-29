@@ -1,10 +1,9 @@
 APClips
-Blogger
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
+Itch.io
 PocketStars
 Reddit
 RocketTube
@@ -13,5 +12,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+hunting
+opennet
 svidbook
 xHamster
