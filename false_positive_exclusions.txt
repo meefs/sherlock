@@ -1,17 +1,15 @@
 APClips
+Audiojungle
+Carbonmade
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
