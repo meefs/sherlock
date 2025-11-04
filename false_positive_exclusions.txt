@@ -1,18 +1,21 @@
 APClips
-Audiojungle
-Carbonmade
+Blogger
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
+HackerRank
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
+threads
