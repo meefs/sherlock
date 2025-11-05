@@ -1,11 +1,8 @@
 APClips
-Blogger
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
-Itch.io
 LushStories
 PocketStars
 Reddit
@@ -16,6 +13,4 @@ Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
-threads
