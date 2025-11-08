@@ -1,7 +1,7 @@
 APClips
 Archive.org
-Coders Rank
-Freelancer
+BoardGameGeek
+Carbonmade
 GNOME VCS
 Giphy
 LushStories
@@ -12,5 +12,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
+nnRU
+opennet
 phpRU
 svidbook
+xHamster
