@@ -2,12 +2,17 @@ APClips
 Archive.org
 Coders Rank
 DeviantArt
+Flipboard
 GNOME VCS
 Giphy
+Harvard Scholar
+Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
@@ -16,3 +21,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
