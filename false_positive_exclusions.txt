@@ -1,8 +1,6 @@
 APClips
 Archive.org
-BoardGameGeek
 Coders Rank
-Dribbble
 GNOME VCS
 Giphy
 LushStories
@@ -14,6 +12,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
