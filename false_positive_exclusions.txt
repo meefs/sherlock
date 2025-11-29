@@ -5,8 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-LiveJournal
-LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -17,4 +16,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
+xHamster
