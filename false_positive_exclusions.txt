@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -17,6 +16,4 @@ Spotify
 Vero
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
