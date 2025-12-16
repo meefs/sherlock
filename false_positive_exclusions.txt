@@ -1,23 +1,21 @@
 APClips
 Archive.org
-Audiojungle
-CGTrader
 Code Snippet Wiki
-Coders Rank
-CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+LiveJournal
+Minecraft
 PocketStars
 Reddit
 RocketTube
+SlideShare
 Splice
 Spotify
-Vero
 Weblate
+Wikidot
 YandexMusic
 opennet
 svidbook
