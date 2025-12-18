@@ -15,7 +15,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-WordPress
 YandexMusic
 opennet
 svidbook
