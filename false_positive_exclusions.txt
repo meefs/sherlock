@@ -2,11 +2,12 @@ APClips
 Archive.org
 Blogger
 Code Snippet Wiki
-DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars
@@ -16,9 +17,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
-opennet
+YandexMusic
 phpRU
 svidbook
 threads
+xHamster
