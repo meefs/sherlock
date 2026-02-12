@@ -7,14 +7,13 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
-LushStories
+LessWrong
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
