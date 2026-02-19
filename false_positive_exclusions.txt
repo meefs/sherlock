@@ -1,14 +1,13 @@
 APClips
-Academia.edu
 Archive.org
-Blogger
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LessWrong
+LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -23,6 +22,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
