@@ -28,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
