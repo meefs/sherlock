@@ -8,6 +8,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -21,6 +22,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 Trovo
 TryHackMe
 Weblate
@@ -29,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
