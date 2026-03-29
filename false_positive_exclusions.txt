@@ -1,15 +1,16 @@
 APClips
-Archive of Our Own
 Archive.org
+CGTrader
 Codolio
 DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
-GitHub
+HackerRank
 Hashnode
 Hubski
+LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -30,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
