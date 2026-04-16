@@ -7,10 +7,10 @@ Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
-Hashnode
 Hubski
 LessWrong
 LushStories
+Patched
 PocketStars
 Pornhub
 Rarible
@@ -19,7 +19,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -28,7 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 dailykos
-igromania
 interpals
 mercadolivre
 opennet
