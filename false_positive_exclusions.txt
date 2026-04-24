@@ -4,13 +4,15 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -22,7 +24,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
