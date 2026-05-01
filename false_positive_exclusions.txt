@@ -2,7 +2,6 @@
 APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -14,7 +13,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Minecraft
+Outgress
 Patched
 Pornhub
 Rarible
