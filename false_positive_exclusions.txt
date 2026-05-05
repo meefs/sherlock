@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Minecraft
 Patched
@@ -27,10 +29,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 interpals
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
