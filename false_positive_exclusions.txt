@@ -5,7 +5,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,8 +14,10 @@ Hashnode
 Hubski
 Itch.io
 LessWrong
+LiveJournal
 LushStories
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,7 +28,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
