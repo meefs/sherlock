@@ -1,6 +1,5 @@
 7Cups
 APClips
-Academia.edu
 Airliners
 Apple Discussions
 Archive.org
@@ -12,11 +11,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Motherless
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,6 +33,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
