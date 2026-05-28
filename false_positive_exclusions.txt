@@ -1,19 +1,18 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Coders Rank
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
